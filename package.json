@@ -5,7 +5,7 @@
   "author": "Maurici Abad",
   "repository": "github:mauriciabad/digital-menu-lacuina",
   "dependencies": {
-    "bulma": "^0.8.0",
+    "bulma": "^0.9.4",
     "gatsby": "^2.20.35",
     "gatsby-image": "^2.3.5",
     "gatsby-plugin-google-fonts": "^1.0.1",
